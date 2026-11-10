@@ -1,0 +1,42 @@
+# Quraşdırılmış paketlər
+node_modules/
+
+# Build nəticələri
+dist/
+dist-ssr/
+
+# Keş və müvəqqəti fayllar
+.vite/
+*.tsbuildinfo
+*.local
+
+# Lokal mühit dəyişənləri
+.env
+.env.*
+!.env.example
+
+# Log faylları
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Test hesabatları
+coverage/
+playwright-report/
+test-results/
+
+# Redaktorun lokal parametrləri
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.sln.docstates
+*.sw?
+
+# Əməliyyat sistemi faylları
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,33 @@
+:root {
+  font-family: Arial, sans-serif;
+  color: #f3f4f6;
+  background-color: #101114;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  padding: 40px;
+}
+
+span {
+  color: #80e0c0;
+  font-size: 14px;
+}
+
+h1 {
+  margin: 16px 0 8px;
+  font-size: 32px;
+}
+
+p {
+  margin: 0;
+  color: #9ca3af;
+  line-height: 1.6;
+}
